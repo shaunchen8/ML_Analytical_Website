@@ -1,4 +1,4 @@
-# ML_Final_Project
+# Machine Learning Analytical Website
 
 1) Classification on data set of diabetic patients based on their glucose levels, BMI, etc.
 2) Regression on data set of white wine characteristics to determine the wine quality
