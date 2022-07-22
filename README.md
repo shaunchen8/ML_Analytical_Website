@@ -5,3 +5,5 @@
 3) Outlier Detection on data set of NBA players' stats in points, assists, rebounds, etc. to determine best and worst players
 
 All done via SKLearn algorithms
+
+pip install pandas, sklearn, django, djangorestframework
